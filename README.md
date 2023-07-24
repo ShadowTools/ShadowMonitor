@@ -1,6 +1,6 @@
 # ShadowMonitor
 
-矿工群控, ShadowMiner群控, 局域网, 海量信息显示, 支持网页版及移动端查看, 邮件订阅, 算力异常告警, 掉线告警
+矿工群控, ShadowMiner群控, 局域网, 海量信息显示, 支持网页版及移动端查看, 邮件订阅, 算力异常及掉线告警
 
 <img width="1120" height="451" src="https://github.com/ShadowTools/ShadowMonitor/blob/main/ShadowMonitor.JPG?raw=true"/> 
 
